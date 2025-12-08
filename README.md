@@ -1,4 +1,4 @@
-![Welcome Banner](AsiyaIbrahimIsmail
+
 /asiya-banner-dark (1).png)
 <h1 align="center">Hi 👋, I'm <span style="color:#FF69B4;">Asiya Ibrahim Ismail</span></h1>
 <h3 align="center">✨ Full-Stack Web App Developer | Creative Problem Solver | Tech Enthusiast ✨</h3>
