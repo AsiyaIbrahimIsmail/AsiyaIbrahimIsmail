@@ -3,7 +3,7 @@
 <h3 align="center">✨ Full-Stack Web App Developer | Creative Problem Solver | Tech Enthusiast ✨</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/oQfEw9C.png" width="650px" alt="Banner"/>
+  
 </p>
 
 ---
