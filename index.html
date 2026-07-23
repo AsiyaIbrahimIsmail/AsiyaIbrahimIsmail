@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asiya Ibrahim Ismail - Full-Stack Developer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 60px 40px;
+            max-width: 800px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .greeting {
+            font-size: 48px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+            animation: wave 2s infinite;
+            display: inline-block;
+            transform-origin: 70% 70%;
+        }
+
+        @keyframes wave {
+            0% { transform: rotate(0deg); }
+            10% { transform: rotate(14deg); }
+            20% { transform: rotate(-8deg); }
+            30% { transform: rotate(14deg); }
+            40% { transform: rotate(-4deg); }
+            50% { transform: rotate(10deg); }
+            60% { transform: rotate(0deg); }
+            100% { transform: rotate(0deg); }
+        }
+
+        .availability {
+            font-size: 18px;
+            color: #27ae60;
+            margin-bottom: 30px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .availability::before {
+            content: '';
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            background: #27ae60;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .typing-container {
+            margin-bottom: 40px;
+        }
+
+        .subtitle {
+            font-size: 28px;
+            color: #667eea;
+            font-weight: 600;
+            min-height: 50px;
+            letter-spacing: 2px;
+        }
+
+        .typing-cursor {
+            display: inline-block;
+            width: 3px;
+            height: 32px;
+            background: #667eea;
+            margin-left: 5px;
+            animation: blink 1s infinite;
+            vertical-align: middle;
+        }
+
+        @keyframes blink {
+            0%, 49% { opacity: 1; }
+            50%, 100% { opacity: 0; }
+        }
+
+        .divider {
+            width: 80px;
+            height: 3px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            margin: 30px auto;
+        }
+
+        .about-section {
+            text-align: left;
+            margin-bottom: 40px;
+        }
+
+        .about-section h2 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .about-section p {
+            color: #555;
+            line-height: 1.8;
+            font-size: 16px;
+        }
+
+        .skills-section {
+            margin-bottom: 40px;
+        }
+
+        .skills-section h3 {
+            color: #333;
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+
+        .skill-category {
+            margin-bottom: 25px;
+        }
+
+        .skill-category h4 {
+            color: #667eea;
+            font-size: 16px;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+
+        .skill-icons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: center;
+        }
+
+        .skill-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: 10px;
+            background: #f0f0f0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .skill-icon:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.2);
+        }
+
+        .cta-button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 50px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin-top: 20px;
+        }
+
+        .cta-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 15px 30px rgba(102, 126, 234, 0.4);
+        }
+
+        .cta-button:active {
+            transform: scale(0.98);
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 40px 20px;
+            }
+
+            .greeting {
+                font-size: 36px;
+            }
+
+            .subtitle {
+                font-size: 20px;
+            }
+
+            .about-section p {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="greeting">👋 Hi, I'm Asiya Ibrahim Ismail</div>
+        
+        <div class="availability">
+            <span>Available for Projects</span>
+        </div>
+
+        <div class="typing-container">
+            <div class="subtitle" id="subtitle"></div>
+            <span class="typing-cursor" id="cursor"></span>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="about-section">
+            <h2>🚀 About Me</h2>
+            <p>Full-Stack Developer with strong passion for building <strong>modern</strong>, <strong>responsive</strong>, and <strong>scalable</strong> web applications. Specializing in <strong>Frontend (React, JS)</strong> and <strong>Backend (Express, Node.js, PHP, SQL, APIs)</strong> development. Love crafting beautiful UI/UX and functional business web-apps.</p>
+        </div>
+
+        <div class="skills-section">
+            <h3>🛠️ Tech Stack & Skills</h3>
+            
+            <div class="skill-category">
+                <h4>🎨 Frontend</h4>
+                <div class="skill-icons">
+                    <div class="skill-icon" title="HTML">📄</div>
+                    <div class="skill-icon" title="CSS">🎨</div>
+                    <div class="skill-icon" title="JavaScript">⚡</div>
+                    <div class="skill-icon" title="React">⚛️</div>
+                    <div class="skill-icon" title="Bootstrap">🔷</div>
+                    <div class="skill-icon" title="Tailwind">🌊</div>
+                </div>
+            </div>
+
+            <div class="skill-category">
+                <h4>⚙️ Backend</h4>
+                <div class="skill-icons">
+                    <div class="skill-icon" title="PHP">🐘</div>
+                    <div class="skill-icon" title="MySQL">🗄️</div>
+                    <div class="skill-icon" title="Node.js">🟢</div>
+                    <div class="skill-icon" title="Python">🐍</div>
+                </div>
+            </div>
+
+            <div class="skill-category">
+                <h4>🧰 Tools & Platforms</h4>
+                <div class="skill-icons">
+                    <div class="skill-icon" title="Git">🔧</div>
+                    <div class="skill-icon" title="GitHub">🐙</div>
+                    <div class="skill-icon" title="VS Code">💻</div>
+                    <div class="skill-icon" title="Figma">🎭</div>
+                    <div class="skill-icon" title="Postman">📮</div>
+                </div>
+            </div>
+        </div>
+
+        <a href="https://github.com/AsiyaIbrahimIsmail" target="_blank">
+            <button class="cta-button">View My GitHub Profile</button>
+        </a>
+    </div>
+
+    <script>
+        // Animated typing effect
+        const subtitle = "✨ Full-Stack Web App Developer | Creative Problem Solver | Tech Enthusiast ✨";
+        const subtitleElement = document.getElementById('subtitle');
+        const cursor = document.getElementById('cursor');
+        let index = 0;
+
+        function typeWriter() {
+            if (index < subtitle.length) {
+                subtitleElement.textContent += subtitle.charAt(index);
+                index++;
+                setTimeout(typeWriter, 50);
+            } else {
+                cursor.style.animation = 'none';
+                cursor.style.opacity = '0';
+            }
+        }
+
+        // Start typing when page loads
+        window.addEventListener('load', typeWriter);
+    </script>
+</body>
+</html>
