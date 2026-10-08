@@ -1,49 +1,49 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> Hi, I'm Asiya Ibrahim Ismail
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&lines=Full-Stack+Web+App+Developer;Creative+Problem+Solver;Building+modern+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=780&lines=Full-Stack+Developer;Creative+Problem+Solver;Frontend+%26+Backend+Builder;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available%20for%20Projects-Open%20to%20work-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Available for projects" />
-  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-FF6B6B?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-Always%20Building-22C55E?style=for-the-badge" alt="Learning" />
+  <img src="https://img.shields.io/badge/Available%20for%20Projects-Open%20for%20work-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Open for work" />
+  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-EC4899?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Passion-UI%2FUX%20%2B%20Backend-10B981?style=for-the-badge" alt="Passion" />
   <img src="https://komarev.com/ghpvc/?username=AsiyaIbrahimIsmail&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d4a-4f8f-9c1d-90f2c0d9c8d5.gif" width="500" alt="creative coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d4a-4f8f-9c1d-90f2c0d9c8d5.gif" width="520" alt="Coding animation" />
 </div>
 
 ---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🚀 About Me</h3>
-      <p>
-        🌟 I’m a passionate <b>Full-Stack Developer</b> who enjoys turning ideas into real-world digital experiences.
-      </p>
-      <p>
-        💡 I build <b>modern, responsive, and scalable</b> web applications that are both beautiful and functional.
-      </p>
-      <p>
-        🎨 I love crafting thoughtful <b>UI/UX</b>, smooth user experiences, and reliable backend systems.
-      </p>
-      <p>
-        🔥 I’m always learning, experimenting, and shipping solutions that solve real problems.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>✨ What I Bring</h3>
-      <p>✅ Clean and responsive frontend interfaces</p>
-      <p>✅ REST API and database-driven systems</p>
-      <p>✅ Business and university management apps</p>
-      <p>✅ CRUD systems, dashboards, and practical tools</p>
-      <p>✅ Strong problem-solving and product mindset</p>
-    </td>
-  </tr>
-</table>
+## 🚀 About Me
+
+I’m a passionate and detail-driven <b>Full-Stack Web Developer</b> who enjoys building solutions that are not only functional but also visually appealing and easy to use.
+
+I love turning ideas into clean, modern, and scalable digital products — from frontend experiences to backend logic, APIs, and database systems.
+
+- 🌍 I build responsive and user-friendly web apps
+- 💡 I enjoy solving real-world problems with practical systems
+- 🎨 I care deeply about UI/UX and product quality
+- 🔥 I’m constantly learning and improving my skills
+
+---
+
+## ✨ What I Do Best
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20CSS-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Express-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQL-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-REST%20%26%20Integrations-0EA5E9?style=for-the-badge" />
+</p>
+
+- ✅ Building clean and responsive interfaces
+- ✅ Creating business and university management systems
+- ✅ Designing dashboards and real-world web apps
+- ✅ Developing REST APIs and authentication flows
+- ✅ Writing maintainable, optimized code
 
 ---
 
@@ -51,65 +51,63 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,python,express" alt="Backend and data technologies" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,python,express" alt="Backend and Data" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" alt="Tools" />
 </p>
 
 ---
 
-## 🌟 Core Strengths
+## 🌟 Highlighted Strengths
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Responsive%20UI-Design%20focused-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business%20Systems-Built%20for%20real%20use-EC4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs-%26%20Dashboards-14B8A6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Optimization-Maintainable%20Code-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-Design%20focused-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business%20Systems-Real-world%20solutions-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/APIs-%26%20Dashboards-Built%20to%20scale-14B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coding%20Style-Clean%20%26%20maintainable-F59E0B?style=flat-square" />
 </p>
 
-- ✨ Building clean, modern, mobile-friendly interfaces
-- ✨ Designing practical solutions for business and academic needs
-- ✨ Creating scalable APIs and backend workflows
-- ✨ Turning user needs into polished digital products
-- ✨ Writing code that is clear, efficient, and maintainable
+- ✨ Building elegant and scalable user interfaces
+- ✨ Creating real-world academic and business applications
+- ✨ Crafting REST APIs, dashboards, and data-driven systems
+- ✨ Writing code that is clean, practical, and maintainable
 
 ---
 
-## 🚀 Project Themes I Enjoy Building
+## 🚀 Project Interests
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Management%20Systems-ERP%20%26%20Admin-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Weather%20Apps-Real-time%20Data-F97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/CRUD%20Projects-Complete%20Solutions-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/APIs-REST%20%26%20Integrations-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/ML%20Mini%20Apps-Streamlit%20Experiments-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Management%20Systems-University%20%26%20Business-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Weather%20App-Data%20Driven-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/CRUD-Complete%20Web%20Apps-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML%20Mini%20Apps-Streamlit-0EA5E9?style=flat-square" />
 </p>
 
-- 🏫 University & business management systems
-- 🌦️ Weather and data-driven projects
+- 🏫 University and business management systems
+- 🌦️ Weather and live data projects
 - 🧩 Full-stack CRUD applications
-- 🔌 Real-world API and integration projects
-- 🤖 Machine learning mini-apps and experiments
+- 🔌 Real-world API integrations
+- 🤖 Machine learning mini-projects and experiments
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsiyaIbrahimIsmail&show_icons=true&theme=radical&hide_border=true&title_color=7C3AED&icon_color=F8D57E&text_color=F4F4F5&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsiyaIbrahimIsmail&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsiyaIbrahimIsmail&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=F8D57E&text_color=F4F4F5&bg_color=0D1117" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsiyaIbrahimIsmail&theme=radical&hide_border=true" height="180" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyaIbrahimIsmail&layout=compact&theme=radical&hide_border=true&title_color=7C3AED&text_color=F4F4F5&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyaIbrahimIsmail&layout=compact&theme=radical&hide_border=true&title_color=8B5CF6&text_color=F4F4F5&bg_color=0D1117" alt="Top languages" />
 </p>
 
 ---
@@ -131,7 +129,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=F8D57E&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Always+open+to+collaborations+and+new+ideas!" alt="Closing message" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=F8D57E&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Always+open+to+collaborations+and+new+ideas!" alt="Closing message" />
 </p>
 
 <p align="center">
