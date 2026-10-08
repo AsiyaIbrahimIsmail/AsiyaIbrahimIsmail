@@ -1,5 +1,9 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Asiya Ibrahim Ismail
 
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐️%20LUXURY%20MINIMAL%20PORTFOLIO%20⭐️-F5D76E?style=for-the-badge&logo=sparkles&logoColor=111827" alt="Shiny Banner" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=28&duration=3000&pause=1000&color=F5D76E&center=true&vCenter=true&multiline=true&width=720&lines=Full-Stack+Developer;Creative+Problem+Solver;Modern+Web+Experience+Builder;Minimal.+Elegant.+Functional." alt="Typing SVG" />
 </p>
@@ -21,7 +25,7 @@
     <td width="50%">
       <h3>About Me</h3>
       <p>
-        I’m a <b>Full-Stack Web Developer</b> with a strong passion for building refined, user-centered digital experiences.
+        I'm a <b>Full-Stack Web Developer</b> with a strong passion for building refined, user-centered digital experiences.
       </p>
       <p>
         I design and develop modern interfaces, practical backend systems, and clean business web applications that balance aesthetics with real functionality.
@@ -95,6 +99,36 @@
 
 ---
 
+## 🎮 Contribution Game - Level Up Your Coding Journey!
+
+<div align="center">
+  
+  [![Contribution Game](https://img.shields.io/badge/🎯%20Play%20the%20Contribution%20Game-Click%20Here-F5D76E?style=for-the-badge&logo=gamepad)](https://github.com/AsiyaIbrahimIsmail?tab=repositories)
+  
+  <p><i>Every commit is a step towards mastery. Keep the streak alive! 🔥</i></p>
+  
+  <table>
+    <tr>
+      <td align="center"><b>🎖️ Achievements</b></td>
+      <td align="center"><b>💎 Level</b></td>
+    </tr>
+    <tr>
+      <td align="center">100+ Commits</td>
+      <td align="center">🌟 Novice Developer</td>
+    </tr>
+    <tr>
+      <td align="center">500+ Commits</td>
+      <td align="center">⚡ Code Warrior</td>
+    </tr>
+    <tr>
+      <td align="center">1000+ Commits</td>
+      <td align="center">👑 Master Developer</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -104,6 +138,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiyaIbrahimIsmail&layout=compact&theme=dracula&hide_border=true&title_color=F5D76E&text_color=F5F3FF&bg_color=0F172A" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsiyaIbrahimIsmail&theme=dracula&hide_border=true&title_color=F5D76E&area_color=8B5CF6&point_color=F5D76E&line_color=8B5CF6" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -130,4 +168,10 @@
 
 <p align="center">
   <b>✨ Minimal by design. Impactful by function. ✨</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Last%20Updated-October%202026-F5D76E?style=flat" alt="Last Update" />
 </p>
